@@ -1,0 +1,1269 @@
+======================================================================
+Running Process Information
+Created : 2026-07-29 22:47:42.759686
+======================================================================
+
+Process Name : System Idle Process
+PID          : 0
+Username     : NT AUTHORITY\SYSTEM
+------------------------------------------------------------
+Process Name : System
+PID          : 4
+Username     : NT AUTHORITY\SYSTEM
+------------------------------------------------------------
+Process Name : 
+PID          : 236
+Username     : None
+------------------------------------------------------------
+Process Name : Registry
+PID          : 280
+Username     : None
+------------------------------------------------------------
+Process Name : LenovoNow.Task.exe
+PID          : 528
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : smss.exe
+PID          : 936
+Username     : None
+------------------------------------------------------------
+Process Name : AutoModeDetect.exe
+PID          : 1012
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : csrss.exe
+PID          : 1212
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 1232
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : wininit.exe
+PID          : 1300
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1420
+Username     : None
+------------------------------------------------------------
+Process Name : services.exe
+PID          : 1448
+Username     : None
+------------------------------------------------------------
+Process Name : LsaIso.exe
+PID          : 1468
+Username     : None
+------------------------------------------------------------
+Process Name : lsass.exe
+PID          : 1476
+Username     : None
+------------------------------------------------------------
+Process Name : SystemSettings.exe
+PID          : 1560
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1608
+Username     : None
+------------------------------------------------------------
+Process Name : fontdrvhost.exe
+PID          : 1640
+Username     : None
+------------------------------------------------------------
+Process Name : WUDFCompanionHost.exe
+PID          : 1724
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1744
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1800
+Username     : None
+------------------------------------------------------------
+Process Name : mc-wps-secdashboardservice.exe
+PID          : 1892
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1916
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1924
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 1940
+Username     : None
+------------------------------------------------------------
+Process Name : ElevocControlService.exe
+PID          : 1992
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2024
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2068
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2088
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2096
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2156
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 2188
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : ipfsvc.exe
+PID          : 2224
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2240
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2292
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2324
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2348
+Username     : None
+------------------------------------------------------------
+Process Name : ApplicationFrameHost.exe
+PID          : 2364
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2416
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2556
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2560
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2576
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2628
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2644
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2752
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 2760
+Username     : None
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 2792
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : IntelCpHDCPSvc.exe
+PID          : 2912
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3068
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3080
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3088
+Username     : None
+------------------------------------------------------------
+Process Name : MemCompression
+PID          : 3180
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3236
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3304
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3312
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3320
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3364
+Username     : None
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 3376
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3404
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3440
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3444
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3540
+Username     : None
+------------------------------------------------------------
+Process Name : msedge.exe
+PID          : 3552
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3556
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3564
+Username     : None
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 3588
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : WUDFHost.exe
+PID          : 3668
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3688
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3732
+Username     : None
+------------------------------------------------------------
+Process Name : spoolsv.exe
+PID          : 3820
+Username     : None
+------------------------------------------------------------
+Process Name : WUDFHost.exe
+PID          : 3840
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3912
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 3992
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4004
+Username     : None
+------------------------------------------------------------
+Process Name : CodeSetup-stable-1b6a188127eeaf9194f945eb6eb89a657e93c54c.tmp
+PID          : 4084
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4100
+Username     : None
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 4208
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : IntelAudioService.exe
+PID          : 4308
+Username     : None
+------------------------------------------------------------
+Process Name : DAX3API.exe
+PID          : 4328
+Username     : None
+------------------------------------------------------------
+Process Name : EllipticHPDService.exe
+PID          : 4352
+Username     : None
+------------------------------------------------------------
+Process Name : SensorFusionService.exe
+PID          : 4364
+Username     : None
+------------------------------------------------------------
+Process Name : WUDFHost.exe
+PID          : 4392
+Username     : None
+------------------------------------------------------------
+Process Name : mc-fw-host.exe
+PID          : 4400
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4420
+Username     : None
+------------------------------------------------------------
+Process Name : ipf_uf.exe
+PID          : 4424
+Username     : None
+------------------------------------------------------------
+Process Name : LenovoVantageService.exe
+PID          : 4476
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4512
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4516
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4556
+Username     : None
+------------------------------------------------------------
+Process Name : MsMpEng.exe
+PID          : 4564
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4580
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4592
+Username     : None
+------------------------------------------------------------
+Process Name : MpDefenderCoreService.exe
+PID          : 4624
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 4672
+Username     : None
+------------------------------------------------------------
+Process Name : LNBITSSvc.exe
+PID          : 4716
+Username     : None
+------------------------------------------------------------
+Process Name : jhi_service.exe
+PID          : 4804
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 4808
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : LenovoUtilityService.exe
+PID          : 4840
+Username     : None
+------------------------------------------------------------
+Process Name : ReadyForService.exe
+PID          : 4848
+Username     : None
+------------------------------------------------------------
+Process Name : OpenConsole.exe
+PID          : 5048
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : SafeExamBrowser.Service.exe
+PID          : 5148
+Username     : None
+------------------------------------------------------------
+Process Name : UltraViewer_Service.exe
+PID          : 5176
+Username     : None
+------------------------------------------------------------
+Process Name : RtkAudUService64.exe
+PID          : 5252
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 5260
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 5292
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : WidgetService.exe
+PID          : 5300
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : WMIRegistrationService.exe
+PID          : 5428
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 5656
+Username     : None
+------------------------------------------------------------
+Process Name : OpenConsole.exe
+PID          : 5732
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 5748
+Username     : None
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 5968
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : MixedRealityLinkSvc.exe
+PID          : 6020
+Username     : None
+------------------------------------------------------------
+Process Name : python.exe
+PID          : 6256
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : msedge.exe
+PID          : 6580
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 6652
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : unsecapp.exe
+PID          : 6748
+Username     : None
+------------------------------------------------------------
+Process Name : SystemUWPLauncher.exe
+PID          : 6840
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : WmiPrvSE.exe
+PID          : 6868
+Username     : None
+------------------------------------------------------------
+Process Name : WUDFCompanionHost.exe
+PID          : 6936
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 7100
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 7192
+Username     : None
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 7212
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : unsecapp.exe
+PID          : 7272
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 7736
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 7980
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : smartscreen.exe
+PID          : 8232
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : RtkAudUService64.exe
+PID          : 8244
+Username     : None
+------------------------------------------------------------
+Process Name : CrossDeviceResume.exe
+PID          : 8268
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 8320
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 8424
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 8484
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : Win32Controller.exe
+PID          : 8564
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 8796
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 8844
+Username     : None
+------------------------------------------------------------
+Process Name : IntelGraphicsSoftware.Service.exe
+PID          : 8876
+Username     : None
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 8916
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : FnHotkeyUtility.exe
+PID          : 9052
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 9740
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 9760
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 9900
+Username     : None
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 9924
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 10004
+Username     : None
+------------------------------------------------------------
+Process Name : msedge.exe
+PID          : 10104
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 10128
+Username     : None
+------------------------------------------------------------
+Process Name : Widgets.exe
+PID          : 10372
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 10396
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : FnHotkeyCapsLKNumLK.exe
+PID          : 10476
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 10616
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 10628
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 10644
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 10664
+Username     : None
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 10716
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : fontdrvhost.exe
+PID          : 10828
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 10836
+Username     : None
+------------------------------------------------------------
+Process Name : WUDFHost.exe
+PID          : 10844
+Username     : None
+------------------------------------------------------------
+Process Name : wlanext.exe
+PID          : 10856
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 11152
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 11184
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 11216
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 11228
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : AggregatorHost.exe
+PID          : 11296
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 11320
+Username     : None
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 11372
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 11480
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 11492
+Username     : None
+------------------------------------------------------------
+Process Name : explorer.exe
+PID          : 11560
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : WUDFHost.exe
+PID          : 11580
+Username     : None
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 11708
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 11748
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 11776
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : OpenConsole.exe
+PID          : 11820
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 11908
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : CodeSetup-stable-1b6a188127eeaf9194f945eb6eb89a657e93c54c.exe
+PID          : 11912
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 12048
+Username     : None
+------------------------------------------------------------
+Process Name : MessagingPlugin.exe
+PID          : 12060
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 12136
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : msedge.exe
+PID          : 12252
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : uihost.exe
+PID          : 12256
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : WindowsTerminal.exe
+PID          : 12604
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : SecurityHealthSystray.exe
+PID          : 12708
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 12712
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 12728
+Username     : None
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 12756
+Username     : None
+------------------------------------------------------------
+Process Name : PresentMonService.exe
+PID          : 12836
+Username     : None
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 12856
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 13032
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 13112
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : mc-fw-host.exe
+PID          : 13196
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 13388
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : SearchIndexer.exe
+PID          : 13500
+Username     : None
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 13648
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 13748
+Username     : None
+------------------------------------------------------------
+Process Name : LenovoVantage-(GenericMessagingAddin).exe
+PID          : 13804
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 13820
+Username     : None
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 14364
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : csrss.exe
+PID          : 14572
+Username     : None
+------------------------------------------------------------
+Process Name : mc-neo-host.exe
+PID          : 14596
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 14668
+Username     : None
+------------------------------------------------------------
+Process Name : UserOOBEBroker.exe
+PID          : 14708
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 14732
+Username     : None
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 14896
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : PushNotificationsLongRunningTask.exe
+PID          : 14924
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : DAX3API.exe
+PID          : 14968
+Username     : None
+------------------------------------------------------------
+Process Name : ms-teams.exe
+PID          : 15356
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 15440
+Username     : None
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 15468
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 15496
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 15584
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 15900
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : audiodg.exe
+PID          : 16004
+Username     : None
+------------------------------------------------------------
+Process Name : python.exe
+PID          : 16040
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 16056
+Username     : None
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 16236
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 16272
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : powershell.exe
+PID          : 16840
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : SearchHost.exe
+PID          : 16860
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : SmartConnect.exe
+PID          : 16888
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 16892
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 16928
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : LenovoVantage-(VantageCoreAddin).exe
+PID          : 17060
+Username     : None
+------------------------------------------------------------
+Process Name : sihost.exe
+PID          : 17340
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : NisSrv.exe
+PID          : 17512
+Username     : None
+------------------------------------------------------------
+Process Name : unsecapp.exe
+PID          : 17560
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 17636
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 17652
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 17984
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 18140
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : CrossDeviceService.exe
+PID          : 18604
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : msedge.exe
+PID          : 18632
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : EllipticHPDDaemon.exe
+PID          : 18704
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 18732
+Username     : None
+------------------------------------------------------------
+Process Name : OpenConsole.exe
+PID          : 18744
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : SecurityHealthService.exe
+PID          : 18776
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 18848
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : PhoneExperienceHost.exe
+PID          : 19108
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : dllhost.exe
+PID          : 19172
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : powershell.exe
+PID          : 19232
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : ctfmon.exe
+PID          : 19332
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 19340
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 19508
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 19576
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : powershell.exe
+PID          : 19668
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 19672
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : LenovoVantage-(SmartDisplayAddin).exe
+PID          : 19896
+Username     : None
+------------------------------------------------------------
+Process Name : servicehost.exe
+PID          : 19960
+Username     : None
+------------------------------------------------------------
+Process Name : OpenConsole.exe
+PID          : 20012
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : winlogon.exe
+PID          : 20084
+Username     : None
+------------------------------------------------------------
+Process Name : RtkAudUService64.exe
+PID          : 20448
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : StartMenuExperienceHost.exe
+PID          : 20476
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : WaaSMedicAgent.exe
+PID          : 20492
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 20564
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 20688
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 20812
+Username     : None
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 20948
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : AppActions.exe
+PID          : 21028
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : Locator.exe
+PID          : 21044
+Username     : None
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 21444
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 21596
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : Notepad.exe
+PID          : 21604
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : ipf_helper.exe
+PID          : 21680
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : taskhostw.exe
+PID          : 21764
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : ShellHost.exe
+PID          : 22332
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 22568
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 22628
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : msedge.exe
+PID          : 22776
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 22828
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : dwm.exe
+PID          : 22832
+Username     : None
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 22864
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 23084
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 23528
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : MixedRealityPairingHelper.exe
+PID          : 23568
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : powershell.exe
+PID          : 24100
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 24112
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 24320
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 24552
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : pet.exe
+PID          : 24784
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : AppProvisioningPlugin.exe
+PID          : 25172
+Username     : None
+------------------------------------------------------------
+Process Name : ShellExperienceHost.exe
+PID          : 25288
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : cmd.exe
+PID          : 25372
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 25392
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 25432
+Username     : None
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 25580
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : dllhost.exe
+PID          : 25608
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 25716
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 25764
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : OneDrive.exe
+PID          : 25800
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : WmiPrvSE.exe
+PID          : 25820
+Username     : None
+------------------------------------------------------------
+Process Name : conhost.exe
+PID          : 26252
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : pet.exe
+PID          : 26264
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 26556
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 26996
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : WUDFHost.exe
+PID          : 27176
+Username     : None
+------------------------------------------------------------
+Process Name : WindowsPackageManagerServer.exe
+PID          : 27180
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : elevation_service.exe
+PID          : 27592
+Username     : None
+------------------------------------------------------------
+Process Name : BioIso.exe
+PID          : 27732
+Username     : None
+------------------------------------------------------------
+Process Name : mc-sustainability.exe
+PID          : 27840
+Username     : None
+------------------------------------------------------------
+Process Name : LenovoVantage-(GenericTelemetryAddin).exe
+PID          : 27884
+Username     : None
+------------------------------------------------------------
+Process Name : UDClientService.exe
+PID          : 27992
+Username     : None
+------------------------------------------------------------
+Process Name : OfficeClickToRun.exe
+PID          : 28024
+Username     : None
+------------------------------------------------------------
+Process Name : dllhost.exe
+PID          : 28040
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : OneDrive.Sync.Service.exe
+PID          : 28220
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 28400
+Username     : None
+------------------------------------------------------------
+Process Name : msedge.exe
+PID          : 28412
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 28548
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 29368
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 29424
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 29644
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : StoreDesktopExtension.exe
+PID          : 30396
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 30400
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : Code.exe
+PID          : 30428
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 30852
+Username     : None
+------------------------------------------------------------
+Process Name : svchost.exe
+PID          : 31328
+Username     : None
+------------------------------------------------------------
+Process Name : WmiApSrv.exe
+PID          : 32068
+Username     : None
+------------------------------------------------------------
+Process Name : WmiPrvSE.exe
+PID          : 32292
+Username     : None
+------------------------------------------------------------
+Process Name : chrome.exe
+PID          : 32304
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : AppVShNotify.exe
+PID          : 33516
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------
+Process Name : SnippingTool.exe
+PID          : 33580
+Username     : LAPTOP-8I1TP0SK\Pratik
+------------------------------------------------------------

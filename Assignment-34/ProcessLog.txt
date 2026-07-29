@@ -1,0 +1,1 @@
+(534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 5a478bee46e88-31504d37368sm2589271eec.22 - gsmtp')
