@@ -1,0 +1,28 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python packages
+Lib/
+lib/
+site-packages/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# TensorFlow
+tensorflow/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+Assignment-67/Marvellous/
